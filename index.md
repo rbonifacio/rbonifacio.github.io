@@ -8,6 +8,8 @@ software architecture and modularity, and software product lines.
 
 I have B.S. and M.S. degrees in Computer Science from Federal University of Paraíba, respectively in João Pessoa and Campina Grande, and a Ph.D. in Computer Science from Federal University of Pernambuco, in Recife.
 
+
+
 # Selected Publications
 
 ## 2018
@@ -53,3 +55,14 @@ I have B.S. and M.S. degrees in Computer Science from Federal University of Para
 ## 2009
    * Bonifácio, Rodrigo and Borba, Paulo. _Modeling Scenario Variability As Crosscutting Mechanisms_. Proceedings of the 8th ACM International Conference on Aspect-oriented Software Development. 2009
 
+   # Social
+
+
+   <img src="images/github.png" alt="drawing" width="100"/>  [github](http://rbonifacio.github.com/)
+
+
+   <img src="images/scholar.png" alt="drawing" width="100"/>   [google scholar](https://scholar.google.com/citations?user=YegiOugAAAAJ&hl=en)
+
+
+
+   <img src="images/dblp.png" alt="drawing" width="200"/>[DBLP](https://dblp.org/pid/21/824)
