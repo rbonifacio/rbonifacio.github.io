@@ -8,7 +8,22 @@ software architecture and modularity, and software product lines.
 
 I have B.S. and M.S. degrees in Computer Science from Federal University of Paraíba, respectively in João Pessoa and Campina Grande, and a Ph.D. in Computer Science from Federal University of Pernambuco, in Recife.
 
+# Service
 
+I have been invited to review papers for the following journals and magazines 
+
+   * Journal of Systems and Software
+   * Information and Software Technology
+   * Journal of Brazilian Computer Society
+   * Journal of Universal Computer Science
+   * IEEE Software
+
+and contributed as PC member of the following conferences in 2019 and 2018:
+
+   * [ICSE 2019 Workshop Track](https://2019.icse-conferences.org/track/icse-2019-Workshops)
+   * [ESEM 2019](http://eseiw2019.com/esem/)
+   * [SBES 2019](http://cbsoft2019.ufba.br/#/sbesresearchtrack)
+   * [SBES 2018](http://cbsoft2018.icmc.usp.br/#/sbes#researchTrackSbes)
 
 # Selected Publications
 
