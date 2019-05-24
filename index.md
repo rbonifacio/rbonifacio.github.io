@@ -1,16 +1,27 @@
-I am an assistant professor at the Computer Science Department, University of Brasília
+I am an assistant professor at the [Computer Science Department](http://www.cic.unb.br),
+[University of Brasília](http://www.unb.br)
 and a member of the [Software Productivity Group](http://cin.ufpe.br/spg),
 led by [Prof. Paulo Borba](http://www.cin.ufpe.br/~phmb/). Currently I am working as
-a visiting research at the University of Paderborn (working under
+a visiting researcher at the [University of Paderborn](https://www.uni-paderborn.de/en/university/) (working under
 the supervision of [Prof. Eric Bodden](http://www.bodden.de)). My research focuses on
-understanding the typical usage of programming language features, program transformation,
+understanding the common usage of programming language features, program transformations,
 software architecture and modularity, and software product lines.
 
 I have B.S. and M.S. degrees in Computer Science from Federal University of Paraíba, respectively in João Pessoa and Campina Grande, and a Ph.D. in Computer Science from Federal University of Pernambuco, in Recife.
 
+# Current Students
+
+   * Marcos Oliveira (PhD student, former MSc student): refactoring recommendation using co-change dependencies
+   * Welder Luz (PhD student, former MSc student): DevOps and the relevance of DSL for systems' configurations  
+   * Handrick Costa (PhD student): mining sandbox
+   * Anônio Carvalho (MSc student): automated program repair using a bot based approach
+   * Diego Marcílio (MSc student): automated program repair based on ASAT tools
+   * Leomar Camargo (MSc student): empirical assessment about the use of Delta Oriented Constructs to implement and evolve SPLs
+   * Luiz Amaral (MSc student): empirical assessment about the impact of merging conflicts into bug introduction
+
 # Service
 
-I have been invited to review papers for the following journals and magazines 
+I have been invited to review papers for the following journals and magazines
 
    * Journal of Systems and Software
    * Information and Software Technology
