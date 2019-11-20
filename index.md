@@ -11,7 +11,9 @@ I have B.S. and M.S. degrees in Computer Science from Federal University of Para
 
 # CogniCrypt Challenge
 
-Access the survey at: https://docs.google.com/forms/d/e/1FAIpQLSdS8ofh1DVvqWe7W40PTYFC2EGxN9yGNJlckEFvvwybkwgaLA/viewform
+   * Access the survey at: https://docs.google.com/forms/d/e/1FAIpQLSdS8ofh1DVvqWe7W40PTYFC2EGxN9yGNJlckEFvvwybkwgaLA/viewform
+   * zypper install java-1_8_0-openjdk-devel
+
 
 # Current Students
 
