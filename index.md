@@ -12,11 +12,6 @@ software architecture and modularity, and software product lines.
 
 I have B.S. and M.S. degrees in Computer Science from Federal University of Paraíba, respectively in João Pessoa and Campina Grande, and a Ph.D. in Computer Science from Federal University of Pernambuco, in Recife.
 
-# CogniCrypt Challenge
-
-   * Access the survey at: https://docs.google.com/forms/d/e/1FAIpQLSdS8ofh1DVvqWe7W40PTYFC2EGxN9yGNJlckEFvvwybkwgaLA/viewform
-   * zypper install java-1_8_0-openjdk-devel
-
 
 # Current Students
 
