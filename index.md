@@ -17,11 +17,12 @@ I have B.S. and M.S. degrees in Computer Science from Federal University of Para
 # Current Students
 
    * Marcos Oliveira (PhD student, former MSc student): refactoring recommendation using co-change dependencies
-   * Welder Luz (PhD student, former MSc student): bug introduction changes and program repair
    * Handrick Costa (PhD student): improve the accuracy of mining sandbox through static analysis
+   * Welder Luz (PhD student, former MSc student): bug introduction changes and program repair	
    * Leomar Camargo (PhD student, former MSc student): safe evolution of software product lines
    * Luiz Amaral (PhD student, former MSc student): improve the accuracy of bug introduction through static analysis 
    * Walter Lucas (PhD student, former MSc student): program transformations to rejuvenate Java systems
+
 # Service
 
 I have been invited to review papers for the following journals and magazines
