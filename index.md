@@ -4,7 +4,7 @@
 I am an assistant professor at the [Computer Science Department](http://www.cic.unb.br),
 [University of Brasília](http://www.unb.br)
 and a member of the [Software Productivity Group](http://cin.ufpe.br/spg),
-led by [Prof. Paulo Borba](http://www.cin.ufpe.br/~phmb/). Currently I am working as
+led by [Prof. Paulo Borba](http://www.cin.ufpe.br/~phmb/). During August 2018 and July 2019 I worked as
 a visiting researcher at the [University of Paderborn](https://www.uni-paderborn.de/en/university/) (working under
 the supervision of [Prof. Eric Bodden](http://www.bodden.de)). My research focuses on
 understanding the common usage of programming language features, program transformations,
