@@ -12,6 +12,7 @@ software architecture and modularity, and software product lines.
 
 I have B.S. and M.S. degrees in Computer Science from Federal University of Paraíba, respectively in João Pessoa and Campina Grande, and a Ph.D. in Computer Science from Federal University of Pernambuco, in Recife.
 
+(last update: April, 2020)
 
 # Current Students
 
