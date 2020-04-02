@@ -1,3 +1,6 @@
+<script src="https://kit.fontawesome.com/027511e269.js" crossorigin="anonymous"></script>
+
+
 I am an assistant professor at the [Computer Science Department](http://www.cic.unb.br),
 [University of Brasília](http://www.unb.br)
 and a member of the [Software Productivity Group](http://cin.ufpe.br/spg),
@@ -43,6 +46,25 @@ and contributed as PC member of the following conferences in 2019 and 2018:
    * [SBES 2018](http://cbsoft2018.icmc.usp.br/#/sbes#researchTrackSbes)
 
 # Selected Publications
+
+## 2019
+   * Welder Pinheiro Luz and Gustavo Pinto and Rodrigo Bonifácio. _Adopting DevOps in the real world: A theory, a model, and a case study_. J. Syst. Softw.. 2019
+
+
+   * Marcos César de Oliveira and Davi Freitas and Rodrigo Bonifácio and Gustavo Pinto and David Lo. _Finding needles in a haystack: Leveraging co-change dependencies to recommend refactorings_. J. Syst. Softw.. 2019
+
+
+   * Diego Marcilio and Rodrigo Bonifácio and Eduardo Monteiro and Edna Dias Canedo and Welder Pinheiro Luz and Gustavo Pinto. _Are static analysis violations really fixed?: a closer look at realistic usage of SonarQube_. Proceedings of the 27th International Conference on Program Comprehension, ICPC 2019, Montreal, QC, Canada, May 25-31, 2019. 2019
+
+
+   * Diego Marcilio and Carlo A. Furia and Rodrigo Bonifácio and Gustavo Pinto. _Automatically Generating Fix Suggestions in Response to Static Code Analysis Warnings_. 19th International Working Conference on Source Code Analysis and Manipulation, SCAM 2019, Cleveland, OH, USA, September 30 - October 1, 2019. 2019
+
+
+   * Walter Lucas and Rodrigo Bonifácio and Edna Dias Canedo and Diego Marcilio and Fernanda Lima. _Does the Introduction of Lambda Expressions Improve the Comprehension of Java Programs?_. Proceedings of the XXXIII Brazilian Symposium on Software Engineering, SBES 2019, Salvador, Brazil, September 23-27, 2019. 2019. <i class="fas fa-trophy"></i> Best paper award of the conference. 
+
+
+   * Luiz Carvalho and Alessandro Garcia and Wesley K. G. Assunção and Rodrigo Bonifácio and Leonardo P. Tizzei and Thelma Elita Colanzi. _Extraction of configurable and reusable microservices from legacy systems: an exploratory study_. Proceedings of the 23rd International Systems and Software Product Line Conference, SPLC 2019, Volume A, Paris, France, September 9-13, 2019. 2019
+
 
 ## 2018
 
