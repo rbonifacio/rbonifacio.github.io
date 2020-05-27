@@ -42,6 +42,10 @@ and contributed as PC member of the following conferences in 2019 and 2018:
 
 # Selected Publications
 
+## 2020
+
+   * Antonio Carvalho, Welder Pinheiro Luz, Diego Marcilio, Rodrigo Bonifácio, Gustavo Pinto, Edna Dias Canedo. _C-3PR: A Bot for Fixing Static Analysis Violations via Pull Requests._ 27th SANER (CSMR-WCRE) 2020: London, ON, Canada.
+
 ## 2019
    * Welder Pinheiro Luz and Gustavo Pinto and Rodrigo Bonifácio. _Adopting DevOps in the real world: A theory, a model, and a case study_. J. Syst. Software. 2019. <i class="fas fa-trophy"></i> *JSS 2019's Paper of the Year*
 
