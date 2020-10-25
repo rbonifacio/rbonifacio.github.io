@@ -48,11 +48,11 @@ and contributed as PC member of the following conferences in 2020, 2019, and 201
 
 ## 2020
 
-   * Diego Marcilio and Carlo A. Furia and Rodrigo Bonif\xc3\xa1cio and Gustavo Pinto. _SpongeBugs: Automatically generating fix suggestions in response to static code analysis warnings_. J. Syst. Softw.. 2020'
+   * Diego Marcilio and Carlo A. Furia and Rodrigo Bonifácio and Gustavo Pinto. _SpongeBugs: Automatically generating fix suggestions in response to static code analysis warnings_. J. Syst. Softw.. 2020'
 
 
-   * Edna Dias Canedo and Rodrigo Bonif\xc3\xa1cio and M\xc3\xa1rcio Vinicius Okimoto and Alexander Serebrenik and Gustavo Pinto and Eduardo Monteiro. _Work Practices and Perceptions from Women Core Developers in OSS Communities_. ESEM '20: ACM / IEEE International Symposium on Empirical Software Engineering and Measurement, Bari, Italy, October 5-7, 2020. 2020"
-
+   * Edna Dias Canedo and Rodrigo Bonifácio and Márcio Vinicius Okimoto and Alexander Serebrenik and Gustavo Pinto and Eduardo Monteiro. _Work Practices and Perceptions from Women Core Developers in OSS Communities_. ESEM '20: ACM / IEEE International Symposium on Empirical Software Engineering and Measurement, Bari, Italy, October 5-7, 2020.
+   
    * Antonio Carvalho, Welder Pinheiro Luz, Diego Marcilio, Rodrigo Bonifácio, Gustavo Pinto, Edna Dias Canedo. _C-3PR: A Bot for Fixing Static Analysis Violations via Pull Requests._ 27th SANER (CSMR-WCRE) 2020: London, ON, Canada.
 
 ## 2019
