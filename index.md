@@ -12,7 +12,7 @@ software architecture and modularity, and software product lines.
 
 I have B.S. and M.S. degrees in Computer Science from Federal University of Paraíba, respectively in João Pessoa and Campina Grande, and a Ph.D. in Computer Science from Federal University of Pernambuco, in Recife.
 
-(last update: April, 2020)
+(last update: October, 2020)
 
 # Current Students
 
@@ -27,14 +27,18 @@ I have B.S. and M.S. degrees in Computer Science from Federal University of Para
 
 I have been invited to review papers for the following journals and magazines
 
+   * Journal of Empirical Software Engineering
    * Journal of Systems and Software
    * Information and Software Technology
    * Journal of Brazilian Computer Society
    * Journal of Universal Computer Science
    * IEEE Software
 
-and contributed as PC member of the following conferences in 2019 and 2018:
+and contributed as PC member of the following conferences in 2020, 2019, and 2018:
 
+   * [SBES 2020](https://cbsoft2020.imd.ufrn.br/sbes-pesquisa.php)
+   * [ICSA 2020](http://icsa-conferences.org/2020/committees/pc-technical/index.html)
+   * [ESEM 2020 Industry Track](http://eseiw2019.com/esem/)
    * [ICSE 2019 Workshop Track](https://2019.icse-conferences.org/track/icse-2019-Workshops)
    * [ESEM 2019](http://eseiw2019.com/esem/)
    * [SBES 2019](http://cbsoft2019.ufba.br/#/sbesresearchtrack)
@@ -43,6 +47,11 @@ and contributed as PC member of the following conferences in 2019 and 2018:
 # Selected Publications
 
 ## 2020
+
+   * Diego Marcilio and Carlo A. Furia and Rodrigo Bonif\xc3\xa1cio and Gustavo Pinto. _SpongeBugs: Automatically generating fix suggestions in response to static code analysis warnings_. J. Syst. Softw.. 2020'
+
+
+   * Edna Dias Canedo and Rodrigo Bonif\xc3\xa1cio and M\xc3\xa1rcio Vinicius Okimoto and Alexander Serebrenik and Gustavo Pinto and Eduardo Monteiro. _Work Practices and Perceptions from Women Core Developers in OSS Communities_. ESEM '20: ACM / IEEE International Symposium on Empirical Software Engineering and Measurement, Bari, Italy, October 5-7, 2020. 2020"
 
    * Antonio Carvalho, Welder Pinheiro Luz, Diego Marcilio, Rodrigo Bonifácio, Gustavo Pinto, Edna Dias Canedo. _C-3PR: A Bot for Fixing Static Analysis Violations via Pull Requests._ 27th SANER (CSMR-WCRE) 2020: London, ON, Canada.
 

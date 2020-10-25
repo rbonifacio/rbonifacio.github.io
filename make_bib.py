@@ -28,9 +28,9 @@ for e in bib_database.entries:
         papersByYear[year] = [e]
 
 for year in sorted(papersByYear.keys(), reverse=True):
-    print '## {}'.format(year)
+    print('## {}'.format(year))
     for p in papersByYear[year]:
-        print printPaper(p)
-        print '\n' 
+        print(printPaper(p))
+        print('\n') 
 
 
