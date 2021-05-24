@@ -6,9 +6,7 @@ I am an associate professor at the [Computer Science Department](http://www.cic.
 and a member of the [Software Productivity Group](http://cin.ufpe.br/spg),
 led by [Prof. Paulo Borba](http://www.cin.ufpe.br/~phmb/). During August 2018 and July 2019 I worked as
 a visiting researcher at the [University of Paderborn](https://www.uni-paderborn.de/en/university/) (working under
-the supervision of [Prof. Eric Bodden](http://www.bodden.de)). My research focuses on
-understanding the common usage of programming language features, program transformations,
-software architecture and modularity, and software product lines.
+the supervision of [Prof. Eric Bodden](http://www.bodden.de)). My research focuses on program analysis and manipulation, aiming at finding and fixing bugs and vulnerabilities and also understanding the common usage of programming language features.
 
 I have B.S. and M.S. degrees in Computer Science from Federal University of Paraíba, respectively in João Pessoa and Campina Grande, and a Ph.D. in Computer Science from Federal University of Pernambuco, in Recife.
 
@@ -52,9 +50,13 @@ and contributed as PC member / chair of the following conferences (2021, 2020, a
 
 # Selected Publications
 
+## 2022
+
+   * Francisco Handrick da Costa, Ismael Medeiros, Thales Menezes, João Victor da Silva, Ingrid Lorraine da Silva, Rodrigo Bonifácio, Krishna Narasimhan, Márcio Ribeiro: _Exploring the use of static and dynamic analysis to improve the performance of the mining sandbox approach for android malware identification_. J. Syst. Softw. 183: 111092 (2022)
+   
 ## 2021 
 
-   * Rodrigo Bonifácio and Stefan Krüger and Krishna Narasimhan and Eric Bodden and Mira Mezini. _Dealing with Variability in API Misuse Specification_. 35th European Conference on Object Oriented Programming (ECOOP 2021). Accepted for publication.
+   * Rodrigo Bonifácio and Stefan Krüger and Krishna Narasimhan and Eric Bodden and Mira Mezini. _Dealing with Variability in API Misuse Specification_. 35th European Conference on Object Oriented Programming (ECOOP 2021). 
    
 ## 2020
 
