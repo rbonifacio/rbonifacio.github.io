@@ -14,11 +14,11 @@ I have B.S. and M.S. degrees in Computer Science from Federal University of Para
 
 (last update: April, 2021)
 
-# Former PdD students
+# Former PhD students
 
    * Marcos Oliveira: refactoring recommendation using co-change dependencies
 
-# Current Students
+# Current PhD Students 
 
    * Handrick Costa (PhD student): improve the accuracy of mining sandbox through static analysis
    * Welder Luz (PhD student, former MSc student): bug introduction changes and program repair	
