@@ -39,7 +39,7 @@ I have been invited to review papers for the following journals and magazines
 and contributed as PC member / chair of the following conferences (2021, 2020, and 2019)
 
    * [SBCARS 2021 - PC Chair](http://cbsoft2021.joinville.udesc.br/sbcars.php)
-   * [MSR/Registered Reports 2021](https://2021.msrconf.org/track/msr-2021-registered-reports)
+   * [MSR Registered Reports 2021](https://2021.msrconf.org/track/msr-2021-registered-reports)
    * [ESEC/FSE Artifact Track 2021](https://2021.esec-fse.org/track/fse-2021-artifacts)
    * [ESEC/FSE Doctoral Symposium 2021](https://2021.esec-fse.org/track/fse-2021-doctoral-symposium)
    * [SBES 2020](https://cbsoft2020.imd.ufrn.br/sbes-pesquisa.php)
