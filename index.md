@@ -12,14 +12,16 @@ software architecture and modularity, and software product lines.
 
 I have B.S. and M.S. degrees in Computer Science from Federal University of Paraíba, respectively in João Pessoa and Campina Grande, and a Ph.D. in Computer Science from Federal University of Pernambuco, in Recife.
 
-(last update: October, 2020)
+(last update: April, 2021)
+
+# Former PdD students
+
+   * Marcos Oliveira: refactoring recommendation using co-change dependencies
 
 # Current Students
 
-   * Marcos Oliveira (PhD student, former MSc student): refactoring recommendation using co-change dependencies
    * Handrick Costa (PhD student): improve the accuracy of mining sandbox through static analysis
    * Welder Luz (PhD student, former MSc student): bug introduction changes and program repair	
-   * Leomar Camargo (PhD student, former MSc student): safe evolution of software product lines
    * Luiz Amaral (PhD student, former MSc student): improve the accuracy of bug introduction through static analysis 
    * Walter Lucas (PhD student, former MSc student): program transformations to rejuvenate Java systems
 
@@ -34,22 +36,34 @@ I have been invited to review papers for the following journals and magazines
    * Journal of Universal Computer Science
    * IEEE Software
 
-and contributed as PC member of the following conferences in 2020, 2019, and 2018:
+and contributed as PC member / chair of the following conferences (2021, 2020, and 2019)
 
+   * [SBCARS 2021 - PC Chair](http://cbsoft2021.joinville.udesc.br/sbcars.php)
+   * [MSR/Registered Reports 2021](https://2021.msrconf.org/track/msr-2021-registered-reports)
+   * [ESEC/FSE Artifact Track 2021](https://2021.esec-fse.org/track/fse-2021-artifacts)
+   * [ESEC/FSE Doctoral Symposium 2021](https://2021.esec-fse.org/track/fse-2021-doctoral-symposium)
    * [SBES 2020](https://cbsoft2020.imd.ufrn.br/sbes-pesquisa.php)
    * [ICSA 2020](http://icsa-conferences.org/2020/committees/pc-technical/index.html)
    * [ESEM 2020 Industry Track](http://eseiw2019.com/esem/)
    * [ICSE 2019 Workshop Track](https://2019.icse-conferences.org/track/icse-2019-Workshops)
    * [ESEM 2019](http://eseiw2019.com/esem/)
    * [SBES 2019](http://cbsoft2019.ufba.br/#/sbesresearchtrack)
-   * [SBES 2018](http://cbsoft2018.icmc.usp.br/#/sbes#researchTrackSbes)
+
 
 # Selected Publications
 
+## 2021 
+
+   * Rodrigo Bonifácio and Stefan Krüger and Krishna Narasimhan and Eric Bodden and Mira Mezini. _Dealing with Variability in API Misuse Specification_. 35th European Conference on Object Oriented Programming (ECOOP 2021). Accepted for publication.
+   
 ## 2020
 
-   * Diego Marcilio and Carlo A. Furia and Rodrigo Bonifácio and Gustavo Pinto. _SpongeBugs: Automatically generating fix suggestions in response to static code analysis warnings_. J. Syst. Softw.. 2020'
+   * Marcos Medeiros and Uirá Kulesza and Rodrigo Bonifácio and Eiji Adachi Barbosa and Roberta Coelho. _Improving Bug Localization by Mining Crash Reports: An Industrial Study_. IEEE International Conference on Software Maintenance and Evolution, ICSME 2020, Adelaide, Australia, September 28 - October 2, 2020.
 
+
+   * Luis Henrique Vieira Amaral and Marcos C. Oliveira and Welder Pinheiro Luz and José Fortes and Rodrigo Bonifácio and Daniel Alencar and Eduardo Monteiro and Gustavo Pinto and David Lo. _How (Not) to Find Bugs: The Interplay Between Merge Conflicts, Co-Changes, and Bugs_. IEEE International Conference on Software Maintenance and Evolution, ICSME 2020, Adelaide, Australia, September 28 - October 2, 2020. 
+   
+   * Diego Marcilio and Carlo A. Furia and Rodrigo Bonifácio and Gustavo Pinto. _SpongeBugs: Automatically generating fix suggestions in response to static code analysis warnings_. J. Syst. Softw.. 2020'
 
    * Edna Dias Canedo and Rodrigo Bonifácio and Márcio Vinicius Okimoto and Alexander Serebrenik and Gustavo Pinto and Eduardo Monteiro. _Work Practices and Perceptions from Women Core Developers in OSS Communities_. ESEM '20: ACM / IEEE International Symposium on Empirical Software Engineering and Measurement, Bari, Italy, October 5-7, 2020.
    
