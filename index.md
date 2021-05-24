@@ -1,7 +1,7 @@
 <script src="https://kit.fontawesome.com/027511e269.js" crossorigin="anonymous"></script>
 
 
-I am an assistant professor at the [Computer Science Department](http://www.cic.unb.br),
+I am an associate professor at the [Computer Science Department](http://www.cic.unb.br),
 [University of Brasília](http://www.unb.br)
 and a member of the [Software Productivity Group](http://cin.ufpe.br/spg),
 led by [Prof. Paulo Borba](http://www.cin.ufpe.br/~phmb/). During August 2018 and July 2019 I worked as
