@@ -1,4 +1,5 @@
 <script src="https://kit.fontawesome.com/027511e269.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 
 I am an associate professor at the [Informatics Center](http://www.cin.ufpe.br),
@@ -15,32 +16,42 @@ I hold B.S. and M.S. degrees in Computer Science from the Federal University of 
 
 (last update: December, 2025)
 
-# Former PhD students
+<details>
+<summary>Students</summary>
+
+### Former PhD students
 
    * Francisco Handrick da Costa: mining Android sandboxes for malware detection
 
    * Marcos Oliveira: refactoring recommendation using co-change dependencies
 
-# Current PhD Students 
+### Current PhD Students 
 
    * Luiz Amaral (PhD student, former MSc student): practical use of static analysis tools for vulnerability detection
 
    * Walter Lucas (PhD student, former MSc student): source code modernization
    
    * Pedro Henrique Teixeira Costa (PhD student, former MSc student): integration of Android test-generation tools and runtime-verification   
+</details>
+<details>
 
-# Service
+<summary>Service</summary>
 
-I have been invited to review papers for the following journals and magazines
+I have been invited to review papers for the following journals.
 
    * IEEE Transactions on Software Engineering
    * Journal of Empirical Software Engineering
    * Journal of Systems and Software
    * Information and Software Technology
    * Journal of Brazilian Computer Society
+   * Journal of Software Engineering: Research and Development
 
+and contributed as a member of the program committee of several conferences in different tracks, including SBES, EMSE, SANER, and ICPC.
 
-# Selected Publications
+</details>
+
+<details>
+<summary>Selected Publications</summary>
 
    * Walter Lucas, Rafael Campos Nunes, Rodrigo Bonifácio, Fausto Carvalho, Ricardo Lima, Michael Silva, Adriano Torres, Paola R. G. Accioly, Eduardo Monteiro, João Saraiva:
 Understanding the adoption of modern Javascript features: An empirical study on open-source systems. Empir. Softw. Eng. 30(3): 107 (2025)
@@ -133,9 +144,17 @@ Understanding the Motivations, Challenges, and Practices of Software Rejuvenatio
 
    * Bonifácio, Rodrigo and Borba, Paulo. _Modeling Scenario Variability As Crosscutting Mechanisms_. Proceedings of the 8th ACM International Conference on Aspect-oriented Software Development. 2009
 
-# Social
+</details> 
 
-|<img src="images/github.png" alt="drawing" width="100"/> |[github](http://rbonifacio.github.com/)|
-|<img src="images/scholar.png" alt="drawing" width="100"/>|[google scholar](https://scholar.google.com/citations?user=YegiOugAAAAJ&hl=en)|
-|<img src="images/dblp.png" alt="drawing" width="200"/>|[DBLP](https://dblp.org/pid/21/824)|
-{:.mbtablestyle}
+<details>
+
+<summary>Social</summary>
+
+
+   * <a href="https://scholar.google.com/citations?user=YegiOugAAAAJ&hl=en"><i class="ai ai-google-scholar fa-lg"></i> Google Scholar</a>
+  
+   * <a href="https://dblp.org/pid/21/824"><i class="ai ai-dblp fa-lg"></i> DBLP</a>
+  
+   * <a href="http://rbonifacio.github.com/"><i class="fas fa-github"></i> GitHub</a>
+
+</details>
