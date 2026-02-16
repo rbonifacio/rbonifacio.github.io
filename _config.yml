@@ -15,7 +15,7 @@ repository: "rbonifacio/rbonifacio.github.io"
 # Author (add avatar: "/assets/images/profile.jpg" when you have a profile photo)
 author:
   name: "Rodrigo Bonifácio"
-  bio: "Associate Professor at UFPE. Research in software maintenance, program analysis, and language evolution."
+  bio: "Associate Professor at the [Informatics Center](https://portal.cin.ufpe.br/), Federal University of Pernambuco. Research in program analysis, software maintenance, and software security."
   location: "Recife, Brazil"
   links:
     - label: "Google Scholar"
