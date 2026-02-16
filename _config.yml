@@ -1,42 +1,68 @@
-# This is the default format.
-# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title
+# Minimal Mistakes theme with dark mode
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+minimal_mistakes_skin: "dark"
 
-exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
-highlighter: rouge
+# Site
+locale: "en-US"
+title: "Rodrigo Bonifácio"
+title_separator: "|"
+name: "Rodrigo Bonifácio"
+description: "Associate Professor in Software Engineering"
+url: "https://rbonifacio.github.io"
+baseurl: ""
+repository: "rbonifacio/rbonifacio.github.io"
 
-title : Rodrigo Bonifacio 
-author :
-  name : Rodrigo Bonifacio
-  email : rbonifacio@unb.br
-  github : rbonifacio
-  twitter : rbonifacio
-  feedburner : nil
+# Author (add avatar: "/assets/images/profile.jpg" when you have a profile photo)
+author:
+  name: "Rodrigo Bonifácio"
+  bio: "Associate Professor at UFPE. Research in software maintenance, program analysis, and language evolution."
+  location: "Recife, Brazil"
+  links:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=YegiOugAAAAJ&hl=en"
+    - label: "DBLP"
+      icon: "ai ai-dblp"
+      url: "https://dblp.org/pid/21/824"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rbonifacio"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://gitlab.com/rbonifacio"
 
+# Reading
+words_per_minute: 160
+read_time: false
 
-production_url : https://rbonifacio.github.io/
-
-
+# Output
+permalink: /:title/
 markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
 
+# Plugins (GitHub Pages compatible)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
-JB :
-  version : 0.3.0
+# Exclude (Gemfile is needed for GitHub Pages build)
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - deleteme.txt
 
-  BASE_PATH : https://rbonifacio.github.io/
-
-  archive_path: nil
-  categories_path : nil
-  tags_path : nil
-  atom_path : nil
-  rss_path : nil
-
-  comments :
-    provider : false
-
-  analytics :
-    provider : false
-
-    provider : false
-
-
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
